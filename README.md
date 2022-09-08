@@ -1,6 +1,29 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsheng1996&count_private=true&show_icons=true&theme=synthwave)](https://github.com/jsheng1996/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsheng1996)](https://github.com/jsheng1996/github-readme-stats)
+
+### GitHub Stats 📈
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/jsheng1996">
+            <img src="https://github-readme-stats.vercel.app/api?username=jsheng1996&count_private=true&show_icons=true&theme=synthwave" alt="jsheng1996's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/jsheng1996">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsheng1996" alt="jsheng1996's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
+
 <!--
 **jsheng1996/jsheng1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
