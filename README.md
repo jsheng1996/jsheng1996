@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsheng1996&count_private=true&show_icons=true&theme=synthwave)](https://github.com/jsheng1996/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsheng1996)](https://github.com/jsheng1996/github-readme-stats)
 <!--
 **jsheng1996/jsheng1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
