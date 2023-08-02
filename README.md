@@ -15,7 +15,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/jsheng1996">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsheng1996&hide=jupyter%20notebook,html" alt="jsheng1996's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsheng1996&hide=jupyter%20notebook,html&theme=synthwave" alt="jsheng1996's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
