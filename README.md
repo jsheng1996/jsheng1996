@@ -25,7 +25,7 @@
 <div>
 <p align="center">
   <a href="[https://github.com/JacobLinCool/LeetCode-Stats-Card](https://leetcode.com/u/jsheng/)" target="_blank">
-    <img title="Jsheng's LeetCode Stats" alt="Jsheng's LeetCode Stats" src="https://leetcard.jacoblin.cool/jsheng??theme=forest&font=Ubuntu%20Mono&ext=heatmap" />
+    <img title="Jsheng's LeetCode Stats" alt="Jsheng's LeetCode Stats" src="https://leetcard.jacoblin.cool/jsheng?theme=nord&font=Ubuntu%20Mono&ext=heatmap" />
   </a>
 </p>
 <div align='center'>
