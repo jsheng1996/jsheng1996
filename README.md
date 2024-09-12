@@ -23,6 +23,7 @@
     </tbody>
   <table>
 <div>
+![Leetcode Stats](https://leetcard.jacoblin.cool//jsheng)
 <div align='center'>
   <a href="https://github.com/jsheng1996">
      <img src= https://komarev.com/ghpvc/?username=jsheng1996&label=PROFILE+VIEWS alt = "Profile Views"/>
